@@ -1,4 +1,4 @@
-# web-awesome
+# Web Awesome
 Demo site for Web Awesome components
 
 ## Details
